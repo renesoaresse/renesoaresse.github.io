@@ -1,0 +1,10 @@
+<span class="post-date">
+  {{ site.data.settings.post_date_prefix }}
+  {{ page.date | date_to_string }}
+  por
+  {% if page.author %}
+    {{ page.author }}
+  {% else %}
+    {{ site.author }}
+  {% endif %}
+</span>
