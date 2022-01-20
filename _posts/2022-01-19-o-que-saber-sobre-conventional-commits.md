@@ -9,7 +9,7 @@ image: conventionalcommits.png
 
 ## História
 
-O conventional commits baseia se na documentação de contribuição do projeto [Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#commit). A equipe de desenvolvimento submeteu esse documento no dia _11 de Março de 2015_ e vem sendo utilizado até os dias de hoje no projeto do angular e em muitos outros.
+O conventional commits baseia-se na documentação de contribuição do projeto [Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#commit). A equipe de desenvolvimento submeteu esse documento no dia _11 de Março de 2015_ e vem sendo utilizado até os dias de hoje no projeto do angular e em muitos outros.
 
 ## Como funciona?
 
