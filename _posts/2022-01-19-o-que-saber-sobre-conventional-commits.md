@@ -4,7 +4,7 @@ title: "O que saber sobre Conventional Commits?"
 author: "Renê Soares"
 categories: programação
 tags: [git, projetos, automação]
-image: conventionalcommits.png
+image: image-post-conventionalcommits.png
 ---
 
 ## História
