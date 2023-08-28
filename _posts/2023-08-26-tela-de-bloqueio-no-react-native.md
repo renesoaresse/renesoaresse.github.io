@@ -4,7 +4,7 @@ title: "Tela de bloqueio no React Native"
 author: "Renê Soares"
 categories: programação
 tags: [typescript, react native, desenvolvimento, mobile, segurança]
-image: image-post-tela-boloqueio-react-native.jpeg
+image: image-post-tela-boloqueio-react-native.jpg
 ---
 
 Fala pessoal, tudo bem?
