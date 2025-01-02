@@ -218,8 +218,6 @@ if (greatestPolygon) {
 OpenCV.clearBuffers();
 ~~~
 
-### O resulta foi...
-
-![Emulador do IOS com o resultado](https://drive.google.com/file/d/1dTRx_FqRca7Q6evOUlDnW66sBgO2CM2z/view?usp=sharing)
+### Conclusão
 
 Com essas bibliotecas, consegui detectar objetos em fotos de forma eficiente, o que é particularmente útil para digitalizar documentos. O próximo passo seria transformar o objeto detectado em uma imagem separada para armazenamento ou processamento adicional. Quem sabe no próximo post eu faça isso? Continue acompanhando.
